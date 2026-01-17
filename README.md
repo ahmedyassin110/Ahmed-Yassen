@@ -40,7 +40,7 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ahmedyassin1900900/Ecommerce-Landing-Page"><b>Ecommerce Landing Page</b></a></td>
+      <td><a href="https://github.com/ahmedyassin1900900/Ecommerce-Landing-Page"><b>Ecommerce-Landing-Page</b></a></td>
       <td><img src="https://img.shields.io/github/stars/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/forks/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
       <td><img src="https://img.shields.io/github/issues/ahmedyassin1900900/Ecommerce-Landing-Page?style=flat-square&labelColor=343b41"/></td>
