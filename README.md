@@ -94,7 +94,7 @@ Frontend Developer | React.js, Tailwind CSS, HTML5, CSS3, JavaScript | Crafting 
   <a href="https://www.linkedin.com/in/ahmedyassin-dev/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="ahmedyassin1900900@gmail.com" target="_blank">
+  <a href="mailto:ahmedyassin1900900@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ahmedyassin1900900" target="_blank">
